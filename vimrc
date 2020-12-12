@@ -42,6 +42,8 @@ Plugin 'airblade/vim-gitgutter' "Git gutter
 "Plugin 'SirVer/ultisnips'       "Ultisnips
 "Plugin 'honza/vim-snippets'     "Snippets
 Plugin 'ryanoasis/vim-devicons' "Devicons
+Plugin 'kien/ctrlp.vim'             "Ctrlp
+Plugin 'mbbill/undotree'        "Undotree
 
 " Color schemes
 Plugin 'sonph/onehalf',{'rtp':'vim/'}
@@ -49,7 +51,8 @@ Plugin 'sonph/onehalf',{'rtp':'vim/'}
 Plugin 'tomasr/molokai'         "Molokai
 Plugin 'dracula/vim'            "Dracula
 Plugin 'rakr/vim-one'           "One
-
+Plugin 'jeffkreeftmeijer/vim-dim'
+                                "Dim
 call vundle#end() 
 filetype plugin indent on " Required
 
