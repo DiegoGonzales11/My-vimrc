@@ -30,9 +30,12 @@ This vimrc use the **Vundle** manager to download and store all the **Plugins**,
 ## Default Setup
 
 - Colorscheme
-    > Molokai
+    `Molokai`
 - Airline Theme
-    > Badwolf
+    `Badwolf`
 - Maps
-    > NERDTree `<C-B>`
-    > 
+    `NERDTree` `<C-B>`
+    `Buftabline`
+    - Next tab `<C-N>`
+    - Prev tab `<C-M>`
+
