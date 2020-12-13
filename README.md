@@ -2,6 +2,8 @@
 
 This vimrc use the **Vundle** manager to download and store all the **Plugins**, If you want to use another manager, you have to change only this part of the code.
 
+![image](https://github.com/DiegoGonzales11/My-vimrc/blob/master/picture/pic.png)
+
 ## Plugins
 
 - [x] Tools
@@ -36,9 +38,10 @@ This vimrc use the **Vundle** manager to download and store all the **Plugins**,
 
     `Badwolf`
 - Maps
-    `NERDTree` `<C-B>`
+
+    `NERDTree`: `<C-B>`
     
-    `Buftabline`
+    `Buftabline`:
     - Next tab `<C-N>`
     - Prev tab `<C-M>`
     
