@@ -1,4 +1,4 @@
-# My vimrc
+# My vimrc :heart:
 
 This vimrc use the **Vundle** manager to download and store all the **Plugins**, If you want to use another manager, you have to change only this part of the code.
 
@@ -75,6 +75,7 @@ Documentation:
 ## Author
 
 Gonzales Loayza Pool Diego :sunglasses:
+
 [Instagram](https://www.instagram.com/pooldiegogonzalesloayza/)
 
 ## Date
